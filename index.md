@@ -27,14 +27,8 @@
         <h1>AMJOY</h1>
         <h2>Hacker is a theme for GitHub Pages.</h2>
 
-        <section id="downloads">
-          
-            <a href="https://github.com/amjoy112/i-m-hacker/zipball/master" class="btn">Download as .zip</a>
-            <a href="https://github.com/amjoy112/i-m-hacker/tarball/master" class="btn">Download as .tar.gz</a>
-          
-          <a href="https://github.com/amjoy112/i-m-hacker" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
+  
+     </div>
     </header>
 
     <div class="container">
